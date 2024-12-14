@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@id/gameListFragment">
+    <fragment
+        android:id="@+id/gameListFragment"
+        android:name="dam.pmdm.videoclase2.GameListFragment"
+        android:label="GameListFragment">
+        <!--<action
+            android:id="@+id/action_gameListFragment_to_gameDetailFragment"
+            app:destination="@id/gameDetailFragment"/>-->
+    </fragment>
+    <fragment
+        android:id="@+id/gameDetailFragment"
+        android:name="dam.pmdm.videoclase2.GameDetailFragment"
+        android:label="GameDetailFragment" />
+
+</navigation>

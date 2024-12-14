@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Videoclase01</string>
+    <string name="Mario">Mario</string>
+    <string name="Luigi">Luigi</string>
+    <string name="Yoshi">Yoshi</string>
+    <string name="Peach">Peach</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="accept">Accept</string>
+</resources>
