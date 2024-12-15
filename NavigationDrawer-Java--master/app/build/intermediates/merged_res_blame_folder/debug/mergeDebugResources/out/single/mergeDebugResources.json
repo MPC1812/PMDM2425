@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/layout_splash.xml.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/layout/splash.xml"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/drawable_cat.png.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/drawable/cat.png"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/menu_drawer_menu.xml.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/menu/drawer_menu.xml"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/xml_data_extraction_rules.xml.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/xml_backup_rules.xml.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/drawable_ic_launcher_background.xml.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/navigation_nav_graph.xml.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/layout_fragment_home.xml.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/layout_nav_header.xml.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/layout/nav_header.xml"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/layout_activity_main.xml.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/layout_fragment_profile.xml.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "dam.pmdm.navigationdrawerjava.app-debug-48:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "dam.pmdm.navigationdrawerjava.app-main-50:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

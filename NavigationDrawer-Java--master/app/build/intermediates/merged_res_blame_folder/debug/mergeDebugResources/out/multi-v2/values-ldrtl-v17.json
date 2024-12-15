@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "dam.pmdm.navigationdrawerjava.app-mergeDebugResources-46:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mario\\.gradle\\caches\\transforms-4\\b509736585117967f05b7e3d081081cd\\transformed\\material-1.12.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,191",
+                        "endColumns": "135,140",
+                        "endOffsets": "186,327"
+                    }
+                }
+            ]
+        }
+    ]
+}

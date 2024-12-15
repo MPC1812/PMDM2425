@@ -1,0 +1,51 @@
+dam.pmdm.navigationdrawerjava.app-appcompat-resources-1.7.0-0 C:\Users\mario\.gradle\caches\transforms-4\06cba1d0b82e356fb5740ad0bdfaa816\transformed\appcompat-resources-1.7.0\res
+dam.pmdm.navigationdrawerjava.app-window-1.0.0-1 C:\Users\mario\.gradle\caches\transforms-4\0b5b9ca424b064175a8147cb1e50422d\transformed\window-1.0.0\res
+dam.pmdm.navigationdrawerjava.app-constraintlayout-2.1.4-2 C:\Users\mario\.gradle\caches\transforms-4\1e96e03ea53c3be797c219bf4527b12f\transformed\constraintlayout-2.1.4\res
+dam.pmdm.navigationdrawerjava.app-navigation-runtime-ktx-2.8.2-3 C:\Users\mario\.gradle\caches\transforms-4\22ba2236101ac4bd63f6e7820b764f7f\transformed\navigation-runtime-ktx-2.8.2\res
+dam.pmdm.navigationdrawerjava.app-lifecycle-viewmodel-ktx-2.6.2-4 C:\Users\mario\.gradle\caches\transforms-4\2c532417bb58b74782a118f9aa60b1d8\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+dam.pmdm.navigationdrawerjava.app-lifecycle-viewmodel-savedstate-2.6.2-5 C:\Users\mario\.gradle\caches\transforms-4\2ec13b7d436b6d3954ccb48c0e855f54\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+dam.pmdm.navigationdrawerjava.app-core-ktx-1.13.0-6 C:\Users\mario\.gradle\caches\transforms-4\2ee0274fc605853627d3db72440dfadf\transformed\core-ktx-1.13.0\res
+dam.pmdm.navigationdrawerjava.app-cardview-1.0.0-7 C:\Users\mario\.gradle\caches\transforms-4\3706e95902742f355c5fb21953ad49e7\transformed\cardview-1.0.0\res
+dam.pmdm.navigationdrawerjava.app-navigation-common-2.8.2-8 C:\Users\mario\.gradle\caches\transforms-4\4046ad17e32d831e01135cfbb1b1316a\transformed\navigation-common-2.8.2\res
+dam.pmdm.navigationdrawerjava.app-navigation-fragment-2.8.2-9 C:\Users\mario\.gradle\caches\transforms-4\4a85a77799f411ec4a1fef3b64c0cac6\transformed\navigation-fragment-2.8.2\res
+dam.pmdm.navigationdrawerjava.app-emoji2-views-helper-1.3.0-10 C:\Users\mario\.gradle\caches\transforms-4\4c81fd6ecc6f795d3869ccac895bf01d\transformed\emoji2-views-helper-1.3.0\res
+dam.pmdm.navigationdrawerjava.app-recyclerview-1.1.0-11 C:\Users\mario\.gradle\caches\transforms-4\4d0f4b6dd85ebf66b8161423fbda6d9d\transformed\recyclerview-1.1.0\res
+dam.pmdm.navigationdrawerjava.app-lifecycle-process-2.6.2-12 C:\Users\mario\.gradle\caches\transforms-4\50b47b369ed98ca8c7b00890e514364a\transformed\lifecycle-process-2.6.2\res
+dam.pmdm.navigationdrawerjava.app-annotation-experimental-1.4.1-13 C:\Users\mario\.gradle\caches\transforms-4\5b655d772d53ef6f5d69376ab620a071\transformed\annotation-experimental-1.4.1\res
+dam.pmdm.navigationdrawerjava.app-core-splashscreen-1.0.1-14 C:\Users\mario\.gradle\caches\transforms-4\6400f7b741aace5335ac57f6bf5b7c4d\transformed\core-splashscreen-1.0.1\res
+dam.pmdm.navigationdrawerjava.app-drawerlayout-1.1.1-15 C:\Users\mario\.gradle\caches\transforms-4\64660241b5ec31f5f9103aafb68df5cb\transformed\drawerlayout-1.1.1\res
+dam.pmdm.navigationdrawerjava.app-activity-ktx-1.9.2-16 C:\Users\mario\.gradle\caches\transforms-4\6603a7dd4b5a4115749e2cc65724aa11\transformed\activity-ktx-1.9.2\res
+dam.pmdm.navigationdrawerjava.app-profileinstaller-1.3.1-17 C:\Users\mario\.gradle\caches\transforms-4\67da662af2b7f63feb683ad6c0eb7099\transformed\profileinstaller-1.3.1\res
+dam.pmdm.navigationdrawerjava.app-core-1.13.0-18 C:\Users\mario\.gradle\caches\transforms-4\6c93395b105cd332b0b5972ecaf41a1b\transformed\core-1.13.0\res
+dam.pmdm.navigationdrawerjava.app-activity-1.9.2-19 C:\Users\mario\.gradle\caches\transforms-4\77bec0f6e2a28f10a0cb2012a1ec0de6\transformed\activity-1.9.2\res
+dam.pmdm.navigationdrawerjava.app-lifecycle-livedata-core-2.6.2-20 C:\Users\mario\.gradle\caches\transforms-4\7a9b92d1d96fa7412124b82edd18e1bd\transformed\lifecycle-livedata-core-2.6.2\res
+dam.pmdm.navigationdrawerjava.app-savedstate-1.2.1-21 C:\Users\mario\.gradle\caches\transforms-4\7b67771b536a6f73abcd7b1eabb6b458\transformed\savedstate-1.2.1\res
+dam.pmdm.navigationdrawerjava.app-emoji2-1.3.0-22 C:\Users\mario\.gradle\caches\transforms-4\7c3a716f99116903e8f4ead0444b8af9\transformed\emoji2-1.3.0\res
+dam.pmdm.navigationdrawerjava.app-navigation-runtime-2.8.2-23 C:\Users\mario\.gradle\caches\transforms-4\95da84db657d4622373601e47eb0a6fa\transformed\navigation-runtime-2.8.2\res
+dam.pmdm.navigationdrawerjava.app-viewpager2-1.0.0-24 C:\Users\mario\.gradle\caches\transforms-4\9bc1bdf600bc6c4c0974aa48de8ff882\transformed\viewpager2-1.0.0\res
+dam.pmdm.navigationdrawerjava.app-navigation-fragment-ktx-2.8.2-25 C:\Users\mario\.gradle\caches\transforms-4\a5c329e97ee816f3aea9fc1d226de804\transformed\navigation-fragment-ktx-2.8.2\res
+dam.pmdm.navigationdrawerjava.app-slidingpanelayout-1.2.0-26 C:\Users\mario\.gradle\caches\transforms-4\a71a791ee11bd9f745d8175655e37946\transformed\slidingpanelayout-1.2.0\res
+dam.pmdm.navigationdrawerjava.app-appcompat-1.7.0-27 C:\Users\mario\.gradle\caches\transforms-4\a8bc77b32952b4d8c34d32d245a390ea\transformed\appcompat-1.7.0\res
+dam.pmdm.navigationdrawerjava.app-material-1.12.0-28 C:\Users\mario\.gradle\caches\transforms-4\b509736585117967f05b7e3d081081cd\transformed\material-1.12.0\res
+dam.pmdm.navigationdrawerjava.app-navigation-ui-2.8.2-29 C:\Users\mario\.gradle\caches\transforms-4\bf7eb1565df39d6292094a3f6bbe3da6\transformed\navigation-ui-2.8.2\res
+dam.pmdm.navigationdrawerjava.app-coordinatorlayout-1.1.0-30 C:\Users\mario\.gradle\caches\transforms-4\c83fefecf4efa76cc875d93b127e71b1\transformed\coordinatorlayout-1.1.0\res
+dam.pmdm.navigationdrawerjava.app-lifecycle-viewmodel-2.6.2-31 C:\Users\mario\.gradle\caches\transforms-4\c880b80a9ce46c1c127dd83b9e51a803\transformed\lifecycle-viewmodel-2.6.2\res
+dam.pmdm.navigationdrawerjava.app-lifecycle-runtime-2.6.2-32 C:\Users\mario\.gradle\caches\transforms-4\c9b0d0f819ac6746b83f473e12428fe7\transformed\lifecycle-runtime-2.6.2\res
+dam.pmdm.navigationdrawerjava.app-lifecycle-runtime-ktx-2.6.2-33 C:\Users\mario\.gradle\caches\transforms-4\cdcb64e3cc3201a3742b8bcfc62fa0ce\transformed\lifecycle-runtime-ktx-2.6.2\res
+dam.pmdm.navigationdrawerjava.app-navigation-ui-ktx-2.8.2-34 C:\Users\mario\.gradle\caches\transforms-4\cf5284c675c2c5fd7a6b1ad2cdb2cf0a\transformed\navigation-ui-ktx-2.8.2\res
+dam.pmdm.navigationdrawerjava.app-lifecycle-livedata-core-ktx-2.6.2-35 C:\Users\mario\.gradle\caches\transforms-4\dcc34c8753a4113a0c509b66c1ab4c3a\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+dam.pmdm.navigationdrawerjava.app-fragment-ktx-1.6.2-36 C:\Users\mario\.gradle\caches\transforms-4\ddae505709e6c9685b0309e6b5f4adc5\transformed\fragment-ktx-1.6.2\res
+dam.pmdm.navigationdrawerjava.app-core-runtime-2.2.0-37 C:\Users\mario\.gradle\caches\transforms-4\de117e2103fd5fb5042e43b537fddf86\transformed\core-runtime-2.2.0\res
+dam.pmdm.navigationdrawerjava.app-startup-runtime-1.1.1-38 C:\Users\mario\.gradle\caches\transforms-4\e5100436d5b9d7ab101ed585d7e325da\transformed\startup-runtime-1.1.1\res
+dam.pmdm.navigationdrawerjava.app-savedstate-ktx-1.2.1-39 C:\Users\mario\.gradle\caches\transforms-4\e5cefc6e95793a9556babec71036d1b8\transformed\savedstate-ktx-1.2.1\res
+dam.pmdm.navigationdrawerjava.app-lifecycle-livedata-2.6.2-40 C:\Users\mario\.gradle\caches\transforms-4\e852436f6390246d41b446adfa045383\transformed\lifecycle-livedata-2.6.2\res
+dam.pmdm.navigationdrawerjava.app-transition-1.5.0-41 C:\Users\mario\.gradle\caches\transforms-4\e94900177e66489870c5d62b005c5474\transformed\transition-1.5.0\res
+dam.pmdm.navigationdrawerjava.app-navigation-common-ktx-2.8.2-42 C:\Users\mario\.gradle\caches\transforms-4\f418ab24decd111873a3b311d920c926\transformed\navigation-common-ktx-2.8.2\res
+dam.pmdm.navigationdrawerjava.app-fragment-1.6.2-43 C:\Users\mario\.gradle\caches\transforms-4\f487683c0023a096ca541cf66a1b31b2\transformed\fragment-1.6.2\res
+dam.pmdm.navigationdrawerjava.app-pngs-44 M:\00.Datos de Usuario\Documents\MEGA\02.PMDM\PMDM2024\NavigationDrawer-Java--master\app\build\generated\res\pngs\debug
+dam.pmdm.navigationdrawerjava.app-resValues-45 M:\00.Datos de Usuario\Documents\MEGA\02.PMDM\PMDM2024\NavigationDrawer-Java--master\app\build\generated\res\resValues\debug
+dam.pmdm.navigationdrawerjava.app-packageDebugResources-46 M:\00.Datos de Usuario\Documents\MEGA\02.PMDM\PMDM2024\NavigationDrawer-Java--master\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+dam.pmdm.navigationdrawerjava.app-packageDebugResources-47 M:\00.Datos de Usuario\Documents\MEGA\02.PMDM\PMDM2024\NavigationDrawer-Java--master\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+dam.pmdm.navigationdrawerjava.app-debug-48 M:\00.Datos de Usuario\Documents\MEGA\02.PMDM\PMDM2024\NavigationDrawer-Java--master\app\build\intermediates\merged_res\debug\mergeDebugResources
+dam.pmdm.navigationdrawerjava.app-debug-49 M:\00.Datos de Usuario\Documents\MEGA\02.PMDM\PMDM2024\NavigationDrawer-Java--master\app\src\debug\res
+dam.pmdm.navigationdrawerjava.app-main-50 M:\00.Datos de Usuario\Documents\MEGA\02.PMDM\PMDM2024\NavigationDrawer-Java--master\app\src\main\res
