@@ -4,6 +4,7 @@ import android.view.LayoutInflater;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
@@ -97,5 +98,49 @@ public class GameListFragment  extends Fragment {
                 "Nintendo Switch"
 
         ));
+
+        games.add(new GameData(
+                "https://m.media-amazon.com/images/I/71FxEVBYddL._AC_UF1000,1000_QL80_.jpg", //Reemplaza con la ruta de la imagen
+                "Super Mario All-Stars",
+                2018,
+                "Un juego de fiesta con tableros virtuales y mini-juegos.",
+                "Nintendo Switch"
+
+        ));
+
+        games.add(new GameData(
+                "https://m.media-amazon.com/images/I/91bAhoyCcUL.jpg", //Reemplaza con la ruta de la imagen
+                "Mario Golf: Super Rush",
+                2021,
+                "Un enfoque divertido del golf con personajes de Mario.",
+                "Nintendo Switch"
+
+        ));
+
+        games.add(new GameData(
+                "https://media.vandal.net/m/85340/paper-mario-the-original-king-20205141527529_1.jpg", //Reemplaza con la ruta de la imagen
+                "Paper Mario, The Original King",
+                2020,
+                "Mario debe obtener el Rey Origami en esta aventurad de rol.",
+                "Nintendo Switch"
+
+        ));
+
+        games.add(new GameData(
+                "https://m.media-amazon.com/images/I/81zgWwSnVfL.jpg", //Reemplaza con la ruta de la imagen
+                "Mario + Rabbids Sparks of Hope",
+                2022,
+                "Mario y los Rabbids deben salvar a los Sparks en esta aventura.",
+                "Nintendo Switch"
+        ));
+    }
+
+    @Override
+    public void onStart() {
+        super.onStart();
+        //Cambia el título del ActionBar
+        if (getActivity() != null) {
+            ((AppCompatActivity) getActivity().getSupportActionBar().setTitle(R.string.lista_de_juegos));
+        }
     }
 }
