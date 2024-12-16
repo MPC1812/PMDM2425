@@ -35,7 +35,7 @@ public class CharacterListFragment extends Fragment {
         super.onViewCreated(view, savedInstanceState);
 
         // Inicializa la lista de personajes
-        loadCharacters(); // Cargar los personajes (puedes implementar esta función para obtener datos)
+        loadCharacters(); // Cargar los personajes
 
         // Configurar el RecyclerView
         adapter = new CharacterRecyclerViewAdapter(characters, getActivity());
@@ -50,7 +50,7 @@ public class CharacterListFragment extends Fragment {
         characters = new ArrayList<CharacterData>();
         // Llenar la lista con datos de personajes
         characters.add(new CharacterData(
-                "https://mario.nintendo.com/static/a5f7fe49f4862aa68eaba347ee05c336/fef79/mario.png", // Reemplaza con la ruta de la imagen
+                "https://mario.nintendo.com/static/a5f7fe49f4862aa68eaba347ee05c336/fef79/mario.png",
                 "Mario",
                 "El héroe principal del Reino Champiñón. Mario es muy positivo y siempre está alegre.",
                 "HABILIDADES: Es bueno en todos los deportes, habilidad para saltar y posibilidad de mejoras durante el juego."
@@ -80,6 +80,7 @@ public class CharacterListFragment extends Fragment {
                 "Residente del Reino Champiñón, trabaja al servicio de la Princesa Peach.",
                 "HABILIDADES: Dependiendo el juego puede tener una habilidad especial distinta."
         ));
+
     }
 
     @Override

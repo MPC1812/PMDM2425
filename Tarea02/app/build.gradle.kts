@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId = "dam.pmdm.tarea02"
-        minSdk = 31
+        minSdk = 24
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
@@ -43,6 +43,7 @@ dependencies {
     implementation ("com.squareup.picasso:picasso:2.71828")
     implementation ("androidx.navigation:navigation-fragment-ktx:2.7.1")
     implementation ("androidx.navigation:navigation-ui-ktx:2.7.1")
+    implementation ("com.google.android.material:material:1.12.0")
 
     implementation(libs.appcompat)
     implementation(libs.material)

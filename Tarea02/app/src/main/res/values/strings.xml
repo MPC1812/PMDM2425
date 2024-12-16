@@ -2,4 +2,8 @@
     <string name="app_name">Tarea02</string>
     <string name="lista_de_personajes">Lista de personajes</string>
     <string name="detalles_del_personaje">Detalles del Personaje</string>
+    <string name="acercaDe">Acerca de...</string>
+    <string name="tituloAcercaDe">Acerca de</string>
+    <string name="textoAcercaDe">Aplicación desarrollada por Mario. Versión 1.0.</string>
+    <string name="volver">VOLVER</string>
 </resources>
